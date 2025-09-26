@@ -4,7 +4,9 @@
 
 // "git commit (дальше комментарий) -m 'comment'"(можно написать init project)
 
-// git log (покажет дату, автора записи, айди коммита и комментарий)
-// git log --oneline(покажет только комментарий)
+// "git log" (покажет дату, автора записи, айди коммита и комментарий)
+// "git log --oneline" (покажет только последний комментарий)
 
-// git push [rep_line] [branch_name]
+// "git push" [rep_line] [branch_name]
+// "git remote -v" (Покажет репозиторий: в нашем случае 'https://github.com/zeniukov/test-git-2.git', но можно написать 'origin')
+// "git branch" (покажет ветку) (в нашем случае 'master')
