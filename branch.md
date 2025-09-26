@@ -26,3 +26,9 @@ feature/about-company
 3. Слияние веток при помощи команды git merge
 git branch feature/main-page
 git checkout feature/main-page
+вносим изменения
+git checkout master
+git merge feature/main-page (смерджили локально)
+git push origin master
+удаляем ветку feature/main-page в гитхабе(глобально)
+git branch -d feature/main-page
