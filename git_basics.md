@@ -1,4 +1,4 @@
-// ОТПРАВКА ИЗМЕНЕНИЙ
+        // ОТПРАВКА ИЗМЕНЕНИЙ
 
 // в терминале "git status" - покажет красным, что надо добавить
 
@@ -14,7 +14,7 @@
 // "git branch" (покажет ветку) (в нашем случае 'master')
 
 
-// git reset, git diff и git reset --hard
+        // git reset, git diff и git reset --hard
 
 
 // "git reset [file]" удаляет некоторые файлы из промежуточной области 
