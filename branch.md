@@ -10,6 +10,7 @@ feature/about-company
 
 // "git branch develop" -> // "git checkout develop"
     (создали ветку)     ->  (переключились на ветку)
+// "git checkout -b develop" (сразу создаст и переключится на новую ветку)
 
 (внесли изменения, потом пишем "git add .", "git commit -m " ", "git push origin develop")
 
